@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1924" height="104" viewBox="0 0 1924 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ede9e9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="videovolna" class="cls-1" d="M1955,703l2-104s-244.68,62-408,62c-194.72,0-196-43-339-43-139.97,0-264.936,40.517-439,42-83.92.716-152.849-30.536-310-36-122.7-4.266-305.23,25.509-406.092,27.055C-31.336,652.378-52,631-52,631l27,65Z" transform="translate(0 -599)"/>
+</svg>

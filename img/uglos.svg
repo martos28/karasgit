@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="349" height="251" viewBox="0 0 349 251">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Прямоугольник_7_копия_4" data-name="Прямоугольник 7 копия 4" class="cls-1" d="M1188,1469h2v45h-2v-45Zm0,0v2h45v-2h-45Zm348,0h-2v45h2v-45Zm0,0v2h-45v-2h45Zm-348,250h2v-45h-2v45Zm0,0v-2h45v2h-45Zm348,0h-2v-45h2v45Zm0,0v-2h-45v2h45Z" transform="translate(-1187.5 -1468.5)"/>
+</svg>
